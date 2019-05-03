@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { VgAPI } from 'videogular2/core';
+
 
 @Component({
   selector: 'app-dashboard',
